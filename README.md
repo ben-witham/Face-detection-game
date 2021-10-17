@@ -4,7 +4,7 @@ This is my first foray into computer vision and face detection, and I've gone ov
 
 Once I finished the face detection portion, I wanted to implement the face detection code in an AR game. I started learning arcade, a python game library, but unfortunately sending the webcam input to arcade was much more difficult than I expected. I instead made a game where the players face controls the movement of the player character. I may eventually try to create the AR implementation of the game, but I'm thinking of doing other projects with the face detection that stumble into the territory of face recognition.
 
-[See it in action!](http://youtube.link.goes.here)
+[See it in action!](https://youtu.be/huUGn0lZZto)
 
 # Development Environment
 
